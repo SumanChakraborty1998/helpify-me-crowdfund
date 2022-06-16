@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Ethereum-2471A3?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ganache"/>
 </p>
 
-<h3 align="center"><a href="https://helpify-me.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
+<h3 align="center"><a target="_blank" href="https://helpify-me.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
 
 <p align="center"> 
     <br />&#10023;
@@ -125,8 +125,8 @@ You will need to add the following environment variables to your .env file in cl
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Suman_Chakraborty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-chakraborty-699308120/)
-[![Twitter](https://img.shields.io/badge/Suman_Chakraborty-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/SumanChakraborty1998/)
+[![linkedin](https://img.shields.io/badge/Suman_Chakraborty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/suman-chakraborty-699308120/)
+[![Github](https://img.shields.io/badge/Suman_Chakraborty-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/SumanChakraborty1998/)
 
 © 2022 Suman Chakraborty
 
