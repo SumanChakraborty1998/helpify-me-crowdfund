@@ -22,7 +22,7 @@
 
 <p align="center"> 
     <br />&#10023;
-    <a href="#🚀Getting-Started">Getting Started</a> &#10023; 
+    <a href="#🚀 Getting-Started">Getting Started</a> &#10023; 
     <a href="#Install">Installation</a> &#10023;    
     <a href="#Author">Author</a> &#10023;
   </p>
