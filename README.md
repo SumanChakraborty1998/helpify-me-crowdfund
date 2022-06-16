@@ -22,7 +22,7 @@
 
 <p align="center"> 
     <br />&#10023;
-    <a href="#🚀 Getting-Started">Getting Started</a> &#10023; 
+    <a href="#Getting-Started">Getting Started</a> &#10023; 
     <a href="#Install">Installation</a> &#10023;    
     <a href="#Author">Author</a> &#10023;
   </p>
@@ -31,7 +31,7 @@ Helpify-Me is an ethereum based dapp where we can contribute the currency (ether
 
 The application is deployed to the rinkeby test network.
 
-## 🚀 Getting Started
+## Getting Started
 
 This project was built using React, Material-UI, Ethers.js, Infura, Solidity, Truffle, Ganache and Ethereum Blockchain. It is an e-commerce web application and for running on your local environment you should follow these guidelines.
 
